@@ -4,7 +4,7 @@ mui——最接近原生APP体验的高性能前端框架，是基于html5plus(�
 
 [mui官网](http://dev.dcloud.net.cn/mui/)
 
-[MUI从入门到精通](https://segmentfault.com/blog/mui) —— [小青年](http://zhaomenghuan.github.io/)
+[MUI从入门到精通](https://segmentfault.com/blog/zhaomenghuan) —— [小青年](http://zhaomenghuan.github.io/)
 
 ## 说明
 本仓库会收集mui一系列demo，欢迎各位fork and push。
